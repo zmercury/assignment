@@ -1,0 +1,26 @@
+.gallery {
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.gallery > p {
+    margin-bottom: 1em;
+}
+
+
+.content {
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.line > img {
+    width: 14em;
+    height: auto;
+}
